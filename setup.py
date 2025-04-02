@@ -6,8 +6,8 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 
 setup(
-    name="amazon_scraper",
-    version="0.1.0",
+    name="master_scramazon",
+    version="0.1.1",
     author="Mehran Safarzadeh",
     url="https://github.com/mehran-sfz/Amazon-Scraper",
     install_requires=[

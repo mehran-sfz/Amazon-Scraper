@@ -27,11 +27,16 @@ This project is a powerful web scraping tool designed to extract data from **Ama
 
 ---
 
+## 🔽 How to Install
+```
+pip install master-scramazon
+```
+
 ## 📖 How to Use
 
 ### 1. Initialize the Scraper
 ```python
-from amazon_scraper import AmazonScraper
+from master_scramazon import AmazonScraper
 
 scraper = AmazonScraper()  # Initializes and runs the Chrome driver
 ```
